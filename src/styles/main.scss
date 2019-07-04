@@ -1,9 +1,12 @@
+// Vars
+$font-family: 'Arial', sans-serif;
+
 * {
-  font-family: sans-serif;
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   border: 0;
+  font-family: $font-family;
 }
 
 html,
